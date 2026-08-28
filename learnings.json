@@ -1,0 +1,51 @@
+{
+  "signal": {
+    "name": "RLM Archetype v1",
+    "status": "FROZEN",
+    "definition": {
+      "opening_underdog": true,
+      "tickets_min": 20,
+      "tickets_max_exclusive": 25,
+      "move_cents_min": 10
+    }
+  },
+  "historical": {
+    "n": 112,
+    "wins": 60,
+    "hit_rate": 53.6,
+    "units": 18.56,
+    "roi": 16.6
+  },
+  "findings": [
+    {
+      "id": "series_game",
+      "title": "Series game number",
+      "status": "exploratory",
+      "summary": "Game 2 showed the strongest historical ROI, but the effect was much stronger in 2025 than 2026. Game 3 was more stable across seasons but on a smaller sample."
+    },
+    {
+      "id": "move_size",
+      "title": "Movement size",
+      "status": "stable_threshold",
+      "summary": "The edge was not concentrated in the largest moves. 10-14c and 15-19c both remained profitable, supporting the current >=10c frozen threshold."
+    },
+    {
+      "id": "open_price",
+      "title": "Opening price",
+      "status": "watch",
+      "summary": "+160 to +179 was the only opening-price bucket negative in both 2025 and 2026. Sample size remains too small to exclude it."
+    },
+    {
+      "id": "money_ticket_gap",
+      "title": "Money-ticket gap",
+      "status": "no_filter",
+      "summary": "RLM remained profitable even when money percentage did not exceed ticket percentage. Money-ticket gap is not required for v1 membership."
+    },
+    {
+      "id": "venue",
+      "title": "Home vs away",
+      "status": "exploratory",
+      "summary": "Away dogs performed better overall, but much of the difference overlaps with opening-price mix. Venue should not be a filter."
+    }
+  ]
+}

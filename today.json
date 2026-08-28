@@ -1,0 +1,204 @@
+{
+  "games": [
+    {
+      "game_id": 294359,
+      "capture_timestamp": "2026-08-28T01:34:39.915918Z",
+      "scheduled_start": "2026-08-28T01:45:00.000Z",
+      "status": "scheduled",
+      "away_team_id": 205,
+      "home_team_id": 209,
+      "away_team": "ARI",
+      "home_team": "SF",
+      "away_ml": -120,
+      "home_ml": 105,
+      "away_ml_open": -116,
+      "home_ml_open": -105,
+      "away_bet_pct": 62,
+      "home_bet_pct": 38,
+      "away_money_pct": 64,
+      "home_money_pct": 36,
+      "bet_count": 14545,
+      "away_line_status": "normal",
+      "home_line_status": "normal",
+      "consensus_away_ml": -120,
+      "consensus_home_ml": 105,
+      "draftkings_away_ml": -119,
+      "draftkings_home_ml": 111,
+      "fanduel_away_ml": -114,
+      "fanduel_home_ml": 106,
+      "betrivers_away_ml": -125,
+      "betrivers_home_ml": 106,
+      "bet365_away_ml": -120,
+      "bet365_home_ml": 110,
+      "fanatics_away_ml": -125,
+      "fanatics_home_ml": 105,
+      "kalshi_away_ml": -113,
+      "kalshi_home_ml": 108,
+      "away_runline": -1.5,
+      "home_runline": 1.5,
+      "away_runline_price": 140,
+      "home_runline_price": -170,
+      "total": 8.0,
+      "over_price": -115,
+      "under_price": -105,
+      "snapshot_key": "e693d18eca7c7608bdbe11e450c9ab63d40a79f4",
+      "betmgm_away_ml": -125.0,
+      "betmgm_home_ml": 105.0,
+      "trends": {
+        "away": {
+          "team": "ARI",
+          "current_streak": "L1",
+          "items": [
+            {
+              "id": "last_5_ml",
+              "label": "ML last 5",
+              "wins": 3,
+              "losses": 2,
+              "n": 5,
+              "win_pct": 60.0,
+              "category": "recent",
+              "strength": "normal"
+            },
+            {
+              "id": "last_10_ml",
+              "label": "ML last 10",
+              "wins": 5,
+              "losses": 5,
+              "n": 10,
+              "win_pct": 50.0,
+              "category": "recent",
+              "strength": "normal"
+            },
+            {
+              "id": "last_20_ml",
+              "label": "ML last 20",
+              "wins": 10,
+              "losses": 10,
+              "n": 20,
+              "win_pct": 50.0,
+              "category": "recent",
+              "strength": "normal"
+            },
+            {
+              "id": "away_last_10_ml",
+              "label": "Away ML last 10",
+              "wins": 5,
+              "losses": 5,
+              "n": 10,
+              "win_pct": 50.0,
+              "category": "venue",
+              "strength": "normal"
+            },
+            {
+              "id": "favorite_last_10_ml",
+              "label": "Favorite ML last 10",
+              "wins": 3,
+              "losses": 7,
+              "n": 10,
+              "win_pct": 30.0,
+              "category": "market_role",
+              "strength": "normal"
+            },
+            {
+              "id": "series_game_1",
+              "label": "Series Game 1 ML",
+              "wins": 24,
+              "losses": 21,
+              "n": 45,
+              "win_pct": 53.3,
+              "category": "series",
+              "strength": "normal"
+            },
+            {
+              "id": "after_win_last_10",
+              "label": "After Win ML last 10",
+              "wins": 4,
+              "losses": 6,
+              "n": 10,
+              "win_pct": 40.0,
+              "category": "previous_result",
+              "strength": "normal"
+            }
+          ]
+        },
+        "home": {
+          "team": "SF",
+          "current_streak": "W1",
+          "items": [
+            {
+              "id": "last_5_ml",
+              "label": "ML last 5",
+              "wins": 3,
+              "losses": 2,
+              "n": 5,
+              "win_pct": 60.0,
+              "category": "recent",
+              "strength": "normal"
+            },
+            {
+              "id": "last_10_ml",
+              "label": "ML last 10",
+              "wins": 4,
+              "losses": 6,
+              "n": 10,
+              "win_pct": 40.0,
+              "category": "recent",
+              "strength": "normal"
+            },
+            {
+              "id": "last_20_ml",
+              "label": "ML last 20",
+              "wins": 7,
+              "losses": 13,
+              "n": 20,
+              "win_pct": 35.0,
+              "category": "recent",
+              "strength": "normal"
+            },
+            {
+              "id": "home_last_10_ml",
+              "label": "Home ML last 10",
+              "wins": 5,
+              "losses": 5,
+              "n": 10,
+              "win_pct": 50.0,
+              "category": "venue",
+              "strength": "normal"
+            },
+            {
+              "id": "underdog_last_10_ml",
+              "label": "Underdog ML last 10",
+              "wins": 4,
+              "losses": 6,
+              "n": 10,
+              "win_pct": 40.0,
+              "category": "market_role",
+              "strength": "normal"
+            },
+            {
+              "id": "series_game_1",
+              "label": "Series Game 1 ML",
+              "wins": 21,
+              "losses": 23,
+              "n": 44,
+              "win_pct": 47.7,
+              "category": "series",
+              "strength": "normal"
+            },
+            {
+              "id": "after_loss_last_10",
+              "label": "After Loss ML last 10",
+              "wins": 5,
+              "losses": 5,
+              "n": 10,
+              "win_pct": 50.0,
+              "category": "previous_result",
+              "strength": "normal"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "signals": []
+}
