@@ -2,7 +2,7 @@
   "games": [
     {
       "game_id": 294385,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-28T22:45:00.000Z",
       "status": "scheduled",
       "away_team_id": 214,
@@ -41,7 +41,7 @@
       "total": 8.5,
       "over_price": -105.0,
       "under_price": -115.0,
-      "snapshot_key": "016bcfe40d036bba1bef06bdd418d7a652a68c1b",
+      "snapshot_key": "81c6981a92d13dd3f7e4044ba093d970105c7b79",
       "betmgm_away_ml": -145.0,
       "betmgm_home_ml": 120.0,
       "trends": {
@@ -141,7 +141,7 @@
     },
     {
       "game_id": 294388,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-28T23:10:00.000Z",
       "status": "scheduled",
       "away_team_id": 199,
@@ -180,7 +180,7 @@
       "total": 7.5,
       "over_price": -119.0,
       "under_price": -101.0,
-      "snapshot_key": "784d3af84c8f06a5eded5fd62704208e0b0b3f41",
+      "snapshot_key": "aa6003b892a72a95dbecea2dab60e600be537d81",
       "betmgm_away_ml": -110.0,
       "betmgm_home_ml": -110.0,
       "trends": {
@@ -280,7 +280,7 @@
     },
     {
       "game_id": 294389,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-28T23:10:00.000Z",
       "status": "scheduled",
       "away_team_id": 192,
@@ -319,7 +319,7 @@
       "total": 7.5,
       "over_price": -100.0,
       "under_price": -121.0,
-      "snapshot_key": "6112a9a2bd035bdddecbaf94b19da8aed63da10f",
+      "snapshot_key": "0174977b760867265340c9e93624f3c67c9c4983",
       "betmgm_away_ml": 115.0,
       "betmgm_home_ml": -140.0,
       "trends": {
@@ -419,7 +419,7 @@
     },
     {
       "game_id": 294390,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-28T23:10:00.000Z",
       "status": "scheduled",
       "away_team_id": 211,
@@ -458,7 +458,7 @@
       "total": 7.5,
       "over_price": -102.0,
       "under_price": -118.0,
-      "snapshot_key": "368c00ea76e128a0bfba1370c500f44f860900cb",
+      "snapshot_key": "7717ec95c9476e11ece002b892203bfa6f9a934a",
       "betmgm_away_ml": 105.0,
       "betmgm_home_ml": -130.0,
       "trends": {
@@ -558,7 +558,7 @@
     },
     {
       "game_id": 294386,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-28T23:15:00.000Z",
       "status": "scheduled",
       "away_team_id": 190,
@@ -597,7 +597,7 @@
       "total": 7.5,
       "over_price": -100.0,
       "under_price": -130.0,
-      "snapshot_key": "7e6f94dd5c5e394de914d6def5716fe2cb714496",
+      "snapshot_key": "e44d69a0ba8f083e7b95a3c55af1f462a7b97709",
       "betmgm_away_ml": 135.0,
       "betmgm_home_ml": -160.0,
       "trends": {
@@ -697,7 +697,7 @@
     },
     {
       "game_id": 294387,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-28T23:15:00.000Z",
       "status": "scheduled",
       "away_team_id": 197,
@@ -736,7 +736,7 @@
       "total": 7.0,
       "over_price": -100.0,
       "under_price": -119.0,
-      "snapshot_key": "c4b1bb4b0f2cc2d327106e95e8f906b4145fb159",
+      "snapshot_key": "1bd81250d35ed40db11ca4b9109e1aa1154469fc",
       "betmgm_away_ml": 125.0,
       "betmgm_home_ml": -150.0,
       "trends": {
@@ -836,7 +836,7 @@
     },
     {
       "game_id": 294391,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-28T23:15:00.000Z",
       "status": "scheduled",
       "away_team_id": 210,
@@ -875,7 +875,7 @@
       "total": 9.0,
       "over_price": -105.0,
       "under_price": -112.0,
-      "snapshot_key": "77610e9c0302eb5f81fec088630a4f8dca2075ce",
+      "snapshot_key": "4583004b8b03b36fdcdf5071543c43a0b8186d14",
       "betmgm_away_ml": 190.0,
       "betmgm_home_ml": -235.0,
       "trends": {
@@ -975,7 +975,7 @@
     },
     {
       "game_id": 294392,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-28T23:40:00.000Z",
       "status": "scheduled",
       "away_team_id": 200,
@@ -1014,7 +1014,7 @@
       "total": 7.5,
       "over_price": -114.0,
       "under_price": -106.0,
-      "snapshot_key": "4f0a8722209a481ca068520668b14f313d8739db",
+      "snapshot_key": "318fb93b95cf852009c5ec857c031c5ffdd95dd1",
       "betmgm_away_ml": 180.0,
       "betmgm_home_ml": -220.0,
       "trends": {
@@ -1114,7 +1114,7 @@
     },
     {
       "game_id": 294393,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-29T00:10:00.000Z",
       "status": "scheduled",
       "away_team_id": 194,
@@ -1153,7 +1153,7 @@
       "total": 8.5,
       "over_price": -129.0,
       "under_price": 101.0,
-      "snapshot_key": "da0fd7b46825f4cde82420596dd3d88ae261655a",
+      "snapshot_key": "7fb69f19c96e1139053e6025ed7df89378265b46",
       "betmgm_away_ml": 110.0,
       "betmgm_home_ml": -135.0,
       "trends": {
@@ -1253,7 +1253,7 @@
     },
     {
       "game_id": 294394,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-29T00:15:00.000Z",
       "status": "scheduled",
       "away_team_id": 203,
@@ -1292,7 +1292,7 @@
       "total": 7.5,
       "over_price": -105.0,
       "under_price": -115.0,
-      "snapshot_key": "2fa2f9722e4244b054635af061f6a3826be8323b",
+      "snapshot_key": "c2870e41de967a3a0d66d5263261a364422d62bc",
       "betmgm_away_ml": -118.0,
       "betmgm_home_ml": -102.0,
       "trends": {
@@ -1392,7 +1392,7 @@
     },
     {
       "game_id": 294395,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-29T01:38:00.000Z",
       "status": "scheduled",
       "away_team_id": 212,
@@ -1431,7 +1431,7 @@
       "total": 7.5,
       "over_price": -120.0,
       "under_price": -101.0,
-      "snapshot_key": "2fd4b49ef1e2ce0dbb0d6d5855b23903d907f34a",
+      "snapshot_key": "b03d787e663c597094b56314a2390f298e224021",
       "betmgm_away_ml": -120.0,
       "betmgm_home_ml": 100.0,
       "trends": {
@@ -1531,7 +1531,7 @@
     },
     {
       "game_id": 294396,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-29T01:40:00.000Z",
       "status": "scheduled",
       "away_team_id": 187,
@@ -1570,7 +1570,7 @@
       "total": 9.5,
       "over_price": -105.0,
       "under_price": -115.0,
-      "snapshot_key": "e3dbbfc2f1925fdf49f6776c46213b0a6ba9aa12",
+      "snapshot_key": "bce329e43496e37a1950ae2f37027c293dfb2d12",
       "betmgm_away_ml": -115.0,
       "betmgm_home_ml": -105.0,
       "trends": {
@@ -1670,7 +1670,7 @@
     },
     {
       "game_id": 294397,
-      "capture_timestamp": "2026-08-28T22:40:35.041895Z",
+      "capture_timestamp": "2026-08-28T22:40:37.466665Z",
       "scheduled_start": "2026-08-29T02:15:00.000Z",
       "status": "scheduled",
       "away_team_id": 205,
@@ -1709,7 +1709,7 @@
       "total": 8.0,
       "over_price": -111.0,
       "under_price": -110.0,
-      "snapshot_key": "6307c4f38434ac60796dbb4468741ab2247201e6",
+      "snapshot_key": "ea41485fb4c2f962e6132c2ce4c5eb94e28b930a",
       "betmgm_away_ml": -120.0,
       "betmgm_home_ml": 100.0,
       "trends": {
