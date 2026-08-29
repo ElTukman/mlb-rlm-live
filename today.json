@@ -2,7 +2,7 @@
   "games": [
     {
       "game_id": 294395,
-      "capture_timestamp": "2026-08-29T00:25:00.512087Z",
+      "capture_timestamp": "2026-08-29T00:29:10.754968Z",
       "scheduled_start": "2026-08-29T01:38:00.000Z",
       "status": "scheduled",
       "away_team_id": 212,
@@ -41,11 +41,11 @@
       "total": 7.5,
       "over_price": -115.0,
       "under_price": -105.0,
-      "snapshot_key": "10ae7e7ea0fcac1a311b543f773fd912e846786c",
+      "snapshot_key": "8ff52f063ba22637b3d544831a82f503efb986e1",
       "betmgm_away_ml": -120.0,
       "betmgm_home_ml": 100.0,
-      "away_probable_id": NaN,
-      "home_probable_id": NaN,
+      "away_probable_id": 168786.0,
+      "home_probable_id": 147481.0,
       "trends": {
         "away": {
           "team": "PHI",
@@ -139,11 +139,12 @@
             }
           ]
         }
-      }
+      },
+      "watches": []
     },
     {
       "game_id": 294396,
-      "capture_timestamp": "2026-08-29T00:25:00.512087Z",
+      "capture_timestamp": "2026-08-29T00:29:10.754968Z",
       "scheduled_start": "2026-08-29T01:40:00.000Z",
       "status": "scheduled",
       "away_team_id": 187,
@@ -182,11 +183,11 @@
       "total": 9.5,
       "over_price": -103.0,
       "under_price": -118.0,
-      "snapshot_key": "7c3e19d59e2d43887ce74c1ba45440c30fe6b1b4",
+      "snapshot_key": "95d0e5be24d945f157fc244c0eb81f81dee9ed1c",
       "betmgm_away_ml": -115.0,
       "betmgm_home_ml": -105.0,
-      "away_probable_id": NaN,
-      "home_probable_id": NaN,
+      "away_probable_id": 190621.0,
+      "home_probable_id": 112027.0,
       "trends": {
         "away": {
           "team": "BAL",
@@ -280,11 +281,12 @@
             }
           ]
         }
-      }
+      },
+      "watches": []
     },
     {
       "game_id": 294397,
-      "capture_timestamp": "2026-08-29T00:25:00.512087Z",
+      "capture_timestamp": "2026-08-29T00:29:10.754968Z",
       "scheduled_start": "2026-08-29T02:15:00.000Z",
       "status": "scheduled",
       "away_team_id": 205,
@@ -323,11 +325,11 @@
       "total": 8.0,
       "over_price": -111.0,
       "under_price": -110.0,
-      "snapshot_key": "9b0bf684601a2002d08ca8c053e51753142c78a6",
+      "snapshot_key": "b37da657d198f1d6291ed2a31ad1e314b64f01f3",
       "betmgm_away_ml": -120.0,
       "betmgm_home_ml": 100.0,
-      "away_probable_id": NaN,
-      "home_probable_id": NaN,
+      "away_probable_id": 301409.0,
+      "home_probable_id": 197018.0,
       "trends": {
         "away": {
           "team": "ARI",
@@ -421,7 +423,8 @@
             }
           ]
         }
-      }
+      },
+      "watches": []
     }
   ],
   "signals": [
