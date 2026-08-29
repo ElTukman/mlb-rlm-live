@@ -49,7 +49,7 @@
       "trends": {
         "away": {
           "team": "ARI",
-          "current_streak": "L1",
+          "current_streak": "W1",
           "items": [
             {
               "id": "last_5_ml",
@@ -64,20 +64,20 @@
             {
               "id": "last_10_ml",
               "label": "ML last 10",
-              "wins": 5,
-              "losses": 5,
+              "wins": 6,
+              "losses": 4,
               "n": 10,
-              "win_pct": 50.0,
+              "win_pct": 60.0,
               "category": "recent",
               "strength": "normal"
             },
             {
               "id": "last_20_ml",
               "label": "ML last 20",
-              "wins": 10,
-              "losses": 10,
+              "wins": 11,
+              "losses": 9,
               "n": 20,
-              "win_pct": 50.0,
+              "win_pct": 55.0,
               "category": "recent",
               "strength": "normal"
             },
@@ -90,12 +90,42 @@
               "win_pct": 50.0,
               "category": "venue",
               "strength": "normal"
+            },
+            {
+              "id": "favorite_last_10_ml",
+              "label": "Favorite ML last 10",
+              "wins": 4,
+              "losses": 6,
+              "n": 10,
+              "win_pct": 40.0,
+              "category": "market_role",
+              "strength": "normal"
+            },
+            {
+              "id": "series_game_2",
+              "label": "Series Game 2 ML",
+              "wins": 21,
+              "losses": 23,
+              "n": 44,
+              "win_pct": 47.7,
+              "category": "series",
+              "strength": "normal"
+            },
+            {
+              "id": "after_loss_last_10",
+              "label": "After Loss ML last 10",
+              "wins": 7,
+              "losses": 3,
+              "n": 10,
+              "win_pct": 70.0,
+              "category": "previous_result",
+              "strength": "normal"
             }
           ]
         },
         "home": {
           "team": "SF",
-          "current_streak": "W1",
+          "current_streak": "L1",
           "items": [
             {
               "id": "last_5_ml",
@@ -135,6 +165,36 @@
               "n": 10,
               "win_pct": 50.0,
               "category": "venue",
+              "strength": "normal"
+            },
+            {
+              "id": "underdog_last_10_ml",
+              "label": "Underdog ML last 10",
+              "wins": 3,
+              "losses": 7,
+              "n": 10,
+              "win_pct": 30.0,
+              "category": "market_role",
+              "strength": "normal"
+            },
+            {
+              "id": "series_game_2",
+              "label": "Series Game 2 ML",
+              "wins": 17,
+              "losses": 27,
+              "n": 44,
+              "win_pct": 38.6,
+              "category": "series",
+              "strength": "normal"
+            },
+            {
+              "id": "after_win_last_10",
+              "label": "After Win ML last 10",
+              "wins": 2,
+              "losses": 8,
+              "n": 10,
+              "win_pct": 20.0,
+              "category": "previous_result",
               "strength": "normal"
             }
           ]
