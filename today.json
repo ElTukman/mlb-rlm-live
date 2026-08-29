@@ -2,7 +2,7 @@
   "games": [
     {
       "game_id": 294397,
-      "capture_timestamp": "2026-08-29T01:42:58.606972Z",
+      "capture_timestamp": "2026-08-29T01:45:01.769902Z",
       "scheduled_start": "2026-08-29T02:15:00.000Z",
       "status": "scheduled",
       "away_team_id": 205,
@@ -41,7 +41,7 @@
       "total": 8.0,
       "over_price": -111.0,
       "under_price": -110.0,
-      "snapshot_key": "07db07b8c5c84483571bb80857cd526d3d82ab80",
+      "snapshot_key": "29b8c5350c8d1ff91c8dcff15e5f16b1c8db14d1",
       "betmgm_away_ml": -120.0,
       "betmgm_home_ml": 100.0,
       "away_probable_id": 301409.0,
