@@ -2,7 +2,7 @@
   "games": [
     {
       "game_id": 294395,
-      "capture_timestamp": "2026-08-29T00:30:44.461851Z",
+      "capture_timestamp": "2026-08-29T00:38:01.334331Z",
       "scheduled_start": "2026-08-29T01:38:00.000Z",
       "status": "scheduled",
       "away_team_id": 212,
@@ -17,7 +17,7 @@
       "home_bet_pct": 25.0,
       "away_money_pct": 72.0,
       "home_money_pct": 28.0,
-      "bet_count": 9961,
+      "bet_count": 10188,
       "away_line_status": "normal",
       "home_line_status": "normal",
       "consensus_away_ml": -118.0,
@@ -41,7 +41,7 @@
       "total": 7.5,
       "over_price": -115.0,
       "under_price": -105.0,
-      "snapshot_key": "24026249be39a544b873fa24d52376561b332e97",
+      "snapshot_key": "8b1b7a6c7200898e0f2b25329583e5db7365ab85",
       "betmgm_away_ml": -120.0,
       "betmgm_home_ml": 100.0,
       "away_probable_id": 168786.0,
@@ -140,104 +140,11 @@
           ]
         }
       },
-      "baseball_evidence": {
-        "status": "DESCRIPTIVE_ONLY",
-        "away": {
-          "status": "OK",
-          "available": true,
-          "action_player_id": 168786,
-          "mlbam_id": 691725,
-          "player_name": "Andrew Painter",
-          "mapping_confidence": "HIGH",
-          "season": {
-            "starts": 17,
-            "ip": 82.3,
-            "era": 6.12,
-            "whip": 1.51,
-            "k_pct": 0.188,
-            "bb_pct": 0.0817,
-            "k_bb_pct": 0.1063,
-            "fip_component": 2.13
-          },
-          "last3": {
-            "starts": 3,
-            "ip": 17.3,
-            "era": 4.15,
-            "k_pct": 0.2254,
-            "bb_pct": 0.0845,
-            "k_bb_pct": 0.1408
-          },
-          "last5": {
-            "starts": 5,
-            "ip": 27.3,
-            "era": 3.62,
-            "k_pct": 0.2342,
-            "bb_pct": 0.0901,
-            "k_bb_pct": 0.1441
-          },
-          "rest": {
-            "days_since_previous_start": 7.0,
-            "continuity": "NORMAL",
-            "rotation_continuous": true
-          },
-          "role": {
-            "recent_relief_14d": false,
-            "relief_30d_appearances": 0,
-            "bullpen_to_start_transition": false
-          },
-          "stats_asof_date": "2026-08-22"
-        },
-        "home": {
-          "status": "OK",
-          "available": true,
-          "action_player_id": 147481,
-          "mlbam_id": 672282,
-          "player_name": "Reid Detmers",
-          "mapping_confidence": "HIGH",
-          "season": {
-            "starts": 26,
-            "ip": 149.0,
-            "era": 3.62,
-            "whip": 1.06,
-            "k_pct": 0.2852,
-            "bb_pct": 0.073,
-            "k_bb_pct": 0.2123,
-            "fip_component": 0.14
-          },
-          "last3": {
-            "starts": 3,
-            "ip": 20.0,
-            "era": 0.45,
-            "k_pct": 0.3014,
-            "bb_pct": 0.0685,
-            "k_bb_pct": 0.2329
-          },
-          "last5": {
-            "starts": 5,
-            "ip": 29.0,
-            "era": 1.86,
-            "k_pct": 0.3273,
-            "bb_pct": 0.0636,
-            "k_bb_pct": 0.2636
-          },
-          "rest": {
-            "days_since_previous_start": 8.0,
-            "continuity": "EXTENDED",
-            "rotation_continuous": true
-          },
-          "role": {
-            "recent_relief_14d": false,
-            "relief_30d_appearances": 0,
-            "bullpen_to_start_transition": false
-          },
-          "stats_asof_date": "2026-08-21"
-        }
-      },
       "watches": []
     },
     {
       "game_id": 294396,
-      "capture_timestamp": "2026-08-29T00:30:44.461851Z",
+      "capture_timestamp": "2026-08-29T00:38:01.334331Z",
       "scheduled_start": "2026-08-29T01:40:00.000Z",
       "status": "scheduled",
       "away_team_id": 187,
@@ -252,7 +159,7 @@
       "home_bet_pct": 31.0,
       "away_money_pct": 81.0,
       "home_money_pct": 19.0,
-      "bet_count": 9597,
+      "bet_count": 9814,
       "away_line_status": "normal",
       "home_line_status": "normal",
       "consensus_away_ml": -112.0,
@@ -276,7 +183,7 @@
       "total": 9.5,
       "over_price": -103.0,
       "under_price": -118.0,
-      "snapshot_key": "bf7696deb29a0706c619333ca18d6de84a6f3f33",
+      "snapshot_key": "0beb7b89c0465bff797435cb32e1630470ffe39c",
       "betmgm_away_ml": -115.0,
       "betmgm_home_ml": -105.0,
       "away_probable_id": 190621.0,
@@ -375,104 +282,11 @@
           ]
         }
       },
-      "baseball_evidence": {
-        "status": "DESCRIPTIVE_ONLY",
-        "away": {
-          "status": "OK",
-          "available": true,
-          "action_player_id": 190621,
-          "mlbam_id": 687064,
-          "player_name": "Brandon Young",
-          "mapping_confidence": "HIGH",
-          "season": {
-            "starts": 21,
-            "ip": 116.7,
-            "era": 3.7,
-            "whip": 1.38,
-            "k_pct": 0.1896,
-            "bb_pct": 0.0858,
-            "k_bb_pct": 0.1038,
-            "fip_component": 1.31
-          },
-          "last3": {
-            "starts": 3,
-            "ip": 15.7,
-            "era": 4.02,
-            "k_pct": 0.1429,
-            "bb_pct": 0.1,
-            "k_bb_pct": 0.0429
-          },
-          "last5": {
-            "starts": 5,
-            "ip": 25.7,
-            "era": 4.91,
-            "k_pct": 0.1667,
-            "bb_pct": 0.0965,
-            "k_bb_pct": 0.0702
-          },
-          "rest": {
-            "days_since_previous_start": 7.0,
-            "continuity": "NORMAL",
-            "rotation_continuous": true
-          },
-          "role": {
-            "recent_relief_14d": false,
-            "relief_30d_appearances": 0,
-            "bullpen_to_start_transition": false
-          },
-          "stats_asof_date": "2026-08-22"
-        },
-        "home": {
-          "status": "OK",
-          "available": true,
-          "action_player_id": 112027,
-          "mlbam_id": 682052,
-          "player_name": "Jacob Lopez",
-          "mapping_confidence": "HIGH",
-          "season": {
-            "starts": 18,
-            "ip": 85.3,
-            "era": 4.85,
-            "whip": 1.44,
-            "k_pct": 0.2164,
-            "bb_pct": 0.1135,
-            "k_bb_pct": 0.1029,
-            "fip_component": 1.98
-          },
-          "last3": {
-            "starts": 3,
-            "ip": 19.0,
-            "era": 2.37,
-            "k_pct": 0.2703,
-            "bb_pct": 0.0541,
-            "k_bb_pct": 0.2162
-          },
-          "last5": {
-            "starts": 5,
-            "ip": 29.3,
-            "era": 2.45,
-            "k_pct": 0.3162,
-            "bb_pct": 0.0598,
-            "k_bb_pct": 0.2564
-          },
-          "rest": {
-            "days_since_previous_start": 7.0,
-            "continuity": "NORMAL",
-            "rotation_continuous": true
-          },
-          "role": {
-            "recent_relief_14d": false,
-            "relief_30d_appearances": 0,
-            "bullpen_to_start_transition": false
-          },
-          "stats_asof_date": "2026-08-22"
-        }
-      },
       "watches": []
     },
     {
       "game_id": 294397,
-      "capture_timestamp": "2026-08-29T00:30:44.461851Z",
+      "capture_timestamp": "2026-08-29T00:38:01.334331Z",
       "scheduled_start": "2026-08-29T02:15:00.000Z",
       "status": "scheduled",
       "away_team_id": 205,
@@ -487,7 +301,7 @@
       "home_bet_pct": 43.0,
       "away_money_pct": 83.0,
       "home_money_pct": 17.0,
-      "bet_count": 5124,
+      "bet_count": 5255,
       "away_line_status": "normal",
       "home_line_status": "normal",
       "consensus_away_ml": -117.0,
@@ -511,7 +325,7 @@
       "total": 8.0,
       "over_price": -111.0,
       "under_price": -110.0,
-      "snapshot_key": "c902647276121c492205c91af379e993000198c9",
+      "snapshot_key": "4e2c7089bba85617f27d59cd22afd76557bacf18",
       "betmgm_away_ml": -120.0,
       "betmgm_home_ml": 100.0,
       "away_probable_id": 301409.0,
@@ -608,99 +422,6 @@
               "strength": "normal"
             }
           ]
-        }
-      },
-      "baseball_evidence": {
-        "status": "DESCRIPTIVE_ONLY",
-        "away": {
-          "status": "OK",
-          "available": true,
-          "action_player_id": 301409,
-          "mlbam_id": 684442,
-          "player_name": "Kohl Drake",
-          "mapping_confidence": "HIGH",
-          "season": {
-            "starts": 4,
-            "ip": 16.7,
-            "era": 5.4,
-            "whip": 1.56,
-            "k_pct": 0.1688,
-            "bb_pct": 0.0779,
-            "k_bb_pct": 0.0909,
-            "fip_component": 2.4
-          },
-          "last3": {
-            "starts": 3,
-            "ip": 11.7,
-            "era": 6.94,
-            "k_pct": 0.1429,
-            "bb_pct": 0.0714,
-            "k_bb_pct": 0.0714
-          },
-          "last5": {
-            "starts": 4,
-            "ip": 16.7,
-            "era": 5.4,
-            "k_pct": 0.1688,
-            "bb_pct": 0.0779,
-            "k_bb_pct": 0.0909
-          },
-          "rest": {
-            "days_since_previous_start": 23.0,
-            "continuity": "INTERRUPTED",
-            "rotation_continuous": false
-          },
-          "role": {
-            "recent_relief_14d": false,
-            "relief_30d_appearances": 0,
-            "bullpen_to_start_transition": false
-          },
-          "stats_asof_date": "2026-08-06"
-        },
-        "home": {
-          "status": "OK",
-          "available": true,
-          "action_player_id": 197018,
-          "mlbam_id": 694918,
-          "player_name": "Blade Tidwell",
-          "mapping_confidence": "HIGH",
-          "season": {
-            "starts": 4,
-            "ip": 20.7,
-            "era": 3.92,
-            "whip": 1.21,
-            "k_pct": 0.2024,
-            "bb_pct": 0.1071,
-            "k_bb_pct": 0.0952,
-            "fip_component": 0.44
-          },
-          "last3": {
-            "starts": 3,
-            "ip": 15.7,
-            "era": 4.02,
-            "k_pct": 0.2258,
-            "bb_pct": 0.129,
-            "k_bb_pct": 0.0968
-          },
-          "last5": {
-            "starts": 5,
-            "ip": 24.3,
-            "era": 4.07,
-            "k_pct": 0.2079,
-            "bb_pct": 0.1188,
-            "k_bb_pct": 0.0891
-          },
-          "rest": {
-            "days_since_previous_start": 7.0,
-            "continuity": "NORMAL",
-            "rotation_continuous": true
-          },
-          "role": {
-            "recent_relief_14d": false,
-            "relief_30d_appearances": 0,
-            "bullpen_to_start_transition": false
-          },
-          "stats_asof_date": "2026-08-22"
         }
       },
       "watches": []
